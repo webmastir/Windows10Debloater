@@ -11,4 +11,4 @@ Alternatively, you can revert changes, which will reinstall all of the bloatware
 
 I have found many different solutions online to debloat Windows 10 and many either worked but caused issues in the long run, or they did so little that it wasn't enough of a "debloat" experience. I decided to create a script that will debloat Windows 10 the way that I envision it, with the option of even being able to revert changes.
 
-This can help wipe out the 3rd party apps and to stop them from returning.
+
